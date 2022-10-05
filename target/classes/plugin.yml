@@ -1,0 +1,4 @@
+name: LootDrop
+version: '1.0'
+main: be.rivzer.lootdrop.Main
+softdepend: [HolographicDisplays]

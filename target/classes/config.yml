@@ -1,0 +1,10 @@
+Settings:
+  License: "LICENSE-HIER"
+  Countdown: 5
+  LootDropGui:
+    Name: "&c&lLoot Drop"
+  Spawn:
+    HoogteSpawn: 20
+  Snelheden:
+    Draaien: -0.07
+    Drop: -0.2

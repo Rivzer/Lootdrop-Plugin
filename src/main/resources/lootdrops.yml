@@ -1,0 +1,67 @@
+List:
+  - Normal
+  - Epic
+  - Legendary
+
+LootDrops:
+  Normal:
+    Name: "&a&lNormal"
+    TorchName: "Normal"
+    Material: REDSTONE_TORCH_ON
+    LootList:
+      - '1'
+    LootListTotal:
+      - '1'
+    Loot:
+      '1':
+        Name: "&e&lSword"
+        Ammount: 1
+        NBT: "sword"
+        Type: ITEM
+        Material: WOOD_SWORD
+        Data: 0
+        Enchantments: []
+        Lores:
+          - "Lore 1"
+          - "Extra Lore"
+  Epic:
+    Name: "&d&lEpic"
+    TorchName: "Epic"
+    Material: REDSTONE_TORCH_ON
+    LootList:
+      - '1'
+    LootListTotal:
+      - '1'
+    Loot:
+      '1':
+        Name: "&e&lSword"
+        Ammount: 1
+        NBT: "sword"
+        Type: ITEM
+        Material: IRON_SWORD
+        Data: 0
+        Enchantments: []
+        Lores:
+          - "Lore 1"
+          - "Extra Lore"
+  Legendary:
+    Name: "&6&lLegendary"
+    TorchName: "Legendary"
+    Hologram: "&6&lLegendary &e&lLootDrop"
+    Material: REDSTONE_TORCH_ON
+    LootList:
+      - '1'
+    LootListTotal:
+      - '1'
+    Loot:
+      '1':
+        Name: "&e&lSword"
+        Ammount: 1
+        NBT: "sword"
+        Type: ITEM
+        Material: DIAMOND_SWORD
+        Data: 0
+        Enchantments: []
+        Lores:
+          - "Lore 1"
+          - "Extra Lore"
